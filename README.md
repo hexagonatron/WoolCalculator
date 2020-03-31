@@ -1,3 +1,3 @@
 # WoolCalculator
 
-[https://hexagonatron.github.io/WoolCalculator/](Click here)
+[Click here](https://hexagonatron.github.io/WoolCalculator/)
